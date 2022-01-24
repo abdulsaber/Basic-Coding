@@ -8,8 +8,10 @@ public class First_n_naturalno{
         n=sc.nextInt();
         //using while loop
         while(i<=n){
+            
             System.out.println(i);
             i++;
+
         }
         
     }
